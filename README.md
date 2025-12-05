@@ -1,1 +1,2 @@
+#car price prediction
 This project uses Linear Regression to predict car selling prices based on features like year, mileage, fuel type, seller type, and transmission. Categorical data is encoded numerically, and the dataset is split into training and testing sets. Model performance is evaluated using R² score with scatter plots for actual vs predicted prices. The model helps estimate realistic car prices and is simple, interpretable, and suitable for small to medium datasets.
